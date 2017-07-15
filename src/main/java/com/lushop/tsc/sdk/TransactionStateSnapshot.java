@@ -24,7 +24,6 @@ public class TransactionStateSnapshot {
     private String executorHost;
     private Timestamp recallTime;
     private int[] invokeStepMinutes;
-,
 
     @Override
     public String toString() {
